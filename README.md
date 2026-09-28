@@ -1,63 +1,54 @@
-### Olá! Eu sou o Marcelo!🔥
+### Olá! Eu sou o Marcelo, também conhecido como Miraizito! 🔥
 
-**Contatos:**  
+Faço umas besteiras por aí 😅  
+Gosto de tecnologia, animes, jogos, leituras e afins. 🎮📚✨
 
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
+### Contato 💬
 
-Meu Discord: **mirai7810**   
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
+Meu Discord: **miraizito7810**
 
+### Minhas redes e perfis 🎮
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@miraizito9768)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mirai_pirates/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Miraizito/)
+[![RetroAchievements](https://img.shields.io/badge/RetroAchievements-6842A6?style=for-the-badge)](https://retroachievements.org/user/Miraizito)
 
-
-
-### Essas são minhas redes sociais 🙊 
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFWCvGN05pQJdH4pcAMBuHg)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mirai_zito/)
-
-[![TWITCH](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mirai_zamasu)
-
-
-[![EPIC GAMES](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/u/753f98da40e94ec9bc29771f9f70297d)
-
-[![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-)](https://steamcommunity.com/id/marcelpirates/)
-
-[![XBOX](	https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white
-)](https://www.xbox.com/pt-BR/play/user/Sanji781)
-
-
-
-
-
-
-
-
-### Atualmente Estou cursando programação, estou vendo as seguintes linguagens: 
-
+### Linguagens de programação 💻
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
 
+### Proporção de linguagens nos meus projetos 📊
 
-[![marcelo781](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcelo781)](https://github.com/marcelo781/github-readme-stats)
+[![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=Miraizito781)](https://github.com/stats-organization/github-stats-extended)
 
-### Algumas Infos do meu Github: 
+### Estatísticas do GitHub 📈
 
-![marcelo781 GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=marcelo781&show_icons=true&theme=synthwave)
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=Miraizito781&show_icons=true&theme=synthwave)
 
-### Amo tecnologia, games, animes, séries e cultura geek em geral.🔥
+### Meus GIFs ✨
 
-![Makima-pensativa](https://user-images.githubusercontent.com/39533676/229836729-b1d7711e-3e1f-4ab1-8487-fb518b09c6f1.gif)
+#### Games 🎮
 
-![Joker's Awakening](https://user-images.githubusercontent.com/39533676/229839159-4fd7a12b-94c4-408b-97a9-b586b07b79e9.gif)
+<img src="assets/games.gif" alt="GIF de games" width="240" />
 
-![Zoro's Ul Tora Gari](https://user-images.githubusercontent.com/39533676/229839824-57e188b4-cfe4-4787-ac4c-c684243ae18a.gif)
+#### Animes 📺
 
+<!-- GIF 2 será inserido aqui -->
 
-![Rei Ayanami](https://giffiles.alphacoders.com/112/112778.gif)
+#### Tecnologia 🤖
 
-![Zaraki Kenpachi](https://64.media.tumblr.com/fe18ea0f9c427f4e3ac248825c2c353c/tumblr_oy41dinssH1rqe0rbo1_540.gifv)
+<!-- GIF 3 será inserido aqui -->
+
+#### Estudos 📚
+
+<!-- GIF 4 será inserido aqui -->
+
+#### Música 🎵
+
+<!-- GIF 5 será inserido aqui -->
+
