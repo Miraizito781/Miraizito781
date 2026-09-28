@@ -37,18 +37,20 @@ Meu Discord: **miraizito7810**
 <img src="assets/games.gif" alt="GIF de games" width="240" />
 
 #### Animes 📺
-
-<!-- GIF 2 será inserido aqui -->
+<img src="assets/animes.gif" alt="GIF de anime" width="240" />
 
 #### Tecnologia 🤖
-
-<!-- GIF 3 será inserido aqui -->
+<img src="assets/tecnologia.gif" alt="Personagem diante de uma interface digital" width="240" />
 
 #### Estudos 📚
-
-<!-- GIF 4 será inserido aqui -->
+<img src="assets/estudos.gif" alt="Personagem lendo um livro" width="240" />
 
 #### Música 🎵
+<img src="assets/musica.gif" alt="Personagens ouvindo música com fones" width="240" />
 
-<!-- GIF 5 será inserido aqui -->
+
+
+
+
+
 
