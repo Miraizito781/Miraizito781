@@ -30,7 +30,7 @@ Meu Discord: **miraizito7810**
 
 ![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=Miraizito781&show_icons=true&theme=synthwave)
 
-### Meus GIFs ✨
+### GIFs ✨
 
 #### Games 🎮
 
