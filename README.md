@@ -55,25 +55,25 @@
 
 ### ✧ Remarkable Quotes ✨
 
-#### Quote 1 · Technology
+#### Quote 1 · 
 
 > “Why think small? I have enough energy right now to annihilate your entire solar system!”
 
 <img src="assets/perfect-cell-fighterz.gif" alt="Personagem diante de uma interface digital" width="240" />
 
-#### Quote 2 · Anime
+#### Quote 2 ·
 
 > “I'm not going to die. Because once you take a person's life, there's no turning back!”
 
 <img src="assets/kamen-rider-kamen-rider-ryuki.gif" alt="Personagem de anime com uma arma" width="240" />
 
-#### Quote 3 · Games
+#### Quote 3 ·
 
 > “Winners don't need euphemisms!”
 
 <img src="assets/one-piece-luffy-vs-kaido.gif" alt="Personagens jogando em um fliperama" width="240" />
 
-#### Quote 4 · Music
+#### Quote 4 ·
 
 > “See You, Space Cowboy!”
 
